@@ -1,0 +1,7 @@
+---
+application:
+
+  - name: Python Flask App OJDBQ 2021-10-29
+    random-route: true
+    memory: 512M
+    disk_quota: 1.5G
